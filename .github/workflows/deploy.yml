@@ -9,7 +9,7 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_ADDRESS: cluster0.scwshbq.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: cluster0.chvxhxp.mongodb.net
       MONGODB_USERNAME: mayumih919
       MONGODB_PASSWORD: HMTlJPhFjFEaiIl0
       PORT: 8080
